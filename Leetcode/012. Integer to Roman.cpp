@@ -1,4 +1,4 @@
-// Top-voted solution (https://discuss.leetcode.com/topic/12384/simple-solution).
+
 class Solution {
 public:
     string intToRoman(int num) {
