@@ -17,7 +17,7 @@ public:
     }
 };
 
-// Brilliant O(n) from Stefan: https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation
+
 class Solution {
 public:
     int maxArea(vector<int>& height) {

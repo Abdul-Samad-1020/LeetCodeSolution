@@ -16,7 +16,7 @@ public:
     }
 };
 
-// Solution from https://discuss.leetcode.com/topic/6005/shortest-code-possible-in-c
+
 class Solution {
 public:
     int reverse(int x) {
