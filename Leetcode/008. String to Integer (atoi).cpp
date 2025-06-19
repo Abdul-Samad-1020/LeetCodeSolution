@@ -1,3 +1,5 @@
+include<iostream>
+using namspace std;
 class Solution {
 public:
 	int myAtoi(string str) {
